@@ -17,14 +17,12 @@ You can download Python from its [Official Site][1]
 ### Download Source Code
 * Downloading a zip file
 
-From link on [My Google Drive][3]. Click the folder name '**ImgProcessing**' above, and it will show a '**Dropdown Menu**'
-then choose download to download a zip file to your Computer. Then open "**Main.py**" file with your **IDE** and run it.
+Download MiImageTbox v0.2.zip From This Folder.
 
 * Downloading each file separately
 
-From above link choose to download file by file but be careful with "**img**" folder because it contains 
-"**icon.png**" that it Will Make The App Crashes if It is not available in "**Main.py**" path folder. 
-And "**imageScripts.py**" which includes all of **OpenCV** required functions.
+From This Folder choose to download file by file but be careful with "**img**" folder because it contains 
+"**icon.png**" that it Will Make The App Crashes if It is not available in "**main.py**" path folder. Or just remove "**Icon line**" from "**main.py**"
 
 ### Get The Required Packages
 * Use pip to install the required files: 
