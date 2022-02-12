@@ -2,9 +2,9 @@
 ___
 Mi Image Toolbox is a Desktop App Implemented As Simple Image Editor.
 ![img.png](img/img.png)
-![img_1.png](img/img_1.png)
+![img_1.png](img/img2.png)
 * Edge Detection
-![img_2.png](img/img_2.png)
+![img_2.png](img/img3.png)
 
 ## Project Setup
 ___
